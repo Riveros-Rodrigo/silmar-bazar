@@ -571,3 +571,13 @@ ul, ol {
     height: 200px;
   }
 }
+
+#botonArriba{
+  position: fixed;
+  bottom: 20px;
+  right: -100px;
+  width: 40px;
+  transition: all 1s;
+  background:  #FF4E00;
+  border-radius: 50px;
+}
