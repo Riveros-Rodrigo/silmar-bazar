@@ -296,6 +296,13 @@ ul, ol {
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  .how-buy-landing__steps{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
 /* footer */
 
 .container__testimonials{
